@@ -1,0 +1,15 @@
+{
+  "name": "sec-edgar-full-text-search-api",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Search 10-K, 10-Q, 8-K, and any SEC filing by keyword. Python, Node.js and cURL clients for the SEC EDGAR Full-Text Search API on Apify, pay per result.",
+  "main": "sec_edgar_full_text_search_api.mjs",
+  "scripts": {
+    "start": "node sec_edgar_full_text_search_api.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/sec-edgar-fulltext-search/"
+}
